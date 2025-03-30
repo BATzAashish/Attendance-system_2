@@ -1,0 +1,5 @@
+names:
+- face
+nc: 1
+train: D:\Attendance system\DATASET\images\train
+val: D:\Attendance system\DATASET\images\val
