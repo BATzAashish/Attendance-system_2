@@ -59,6 +59,7 @@ Attendance Detection
 1. Detect Faces in Real-Time
 
 After training, use OpenCV with YOLOv8 to detect a person in real-time using a webcam:
+
 import cv2
 from ultralytics import YOLO
 
